@@ -1,0 +1,4151 @@
+[
+  {
+    "id": "P-2026-0514",
+    "name": "Construction of Road Dike with Pumping Station, Phase 5, Macabebe-Masantol, Pampanga",
+    "status": "Proposed",
+    "budget": 325000000.0,
+    "lat": 15.0477019,
+    "lng": 120.66693146756865,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-2043",
+    "name": "Construction of Flood Protection Works along Surigao River, Package 2, San Roque Section, Surigao City, Surigao del Norte",
+    "status": "Proposed",
+    "budget": 300000000.0,
+    "lat": 9.74430717257528,
+    "lng": 125.695950710931,
+    "region": "Region XII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-2044",
+    "name": "Construction of Flood Protection Works along Surigao River, Phase 2, Poctoy Section, Surigao City, Surigao del Norte",
+    "status": "Proposed",
+    "budget": 300000000.0,
+    "lat": 9.74430717257528,
+    "lng": 125.695950710931,
+    "region": "Region XII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0746",
+    "name": "Construction of Pacolago River Flood Mitigation Structure, Barangay Port Junction Norte, Ragay, Camarines Sur",
+    "status": "Proposed",
+    "budget": 250000000.0,
+    "lat": 13.862572288142598,
+    "lng": 122.66976333785766,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0897",
+    "name": "Construction of Flood Mitigation Structure along CDO City-Dominorog-Camp Kibaritan Road, (Upstream) of Uguiaban Bridge, Talakag, Package 7, Bukidnon",
+    "status": "Proposed",
+    "budget": 250000000.0,
+    "lat": 7.922906469425863,
+    "lng": 125.01421988550838,
+    "region": "Region X",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1779",
+    "name": "Construction of Revetment along Malaking Ilog River (Downstream) Phase 3, San Juan, Batangas",
+    "status": "Proposed",
+    "budget": 250000000.0,
+    "lat": 13.792297506285417,
+    "lng": 121.40421269688068,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1869",
+    "name": "Construction of Flood Mitigation Structure along Sipalay River, Downstream, Barangay Mambaroto, Sipalay City, Negros Occidental",
+    "status": "Proposed",
+    "budget": 250000000.0,
+    "lat": 10.450222625745488,
+    "lng": 123.00340905686686,
+    "region": "Region VI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1954",
+    "name": "Construction of Flood Mitigation Structure along CDO City-Dominorog-Camp Kibaritan Rd, Upstream of Pigcutin Bridge, Talakag, Bukidnon",
+    "status": "Proposed",
+    "budget": 240825000.0,
+    "lat": 8.105313357826189,
+    "lng": 124.64029398381103,
+    "region": "Region X",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": true,
+      "healthy": false,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0211",
+    "name": "Construction of River Control Structure along Buaya River, Villa Hermosa to Quinsoriano Section, Sta. Cruz, Ilocos Sur",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 17.38262152655698,
+    "lng": 120.4744002089233,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0586",
+    "name": "Construction of Flood Control Structure along Baras River (Package A), Baras, Rizal",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 14.537453870182588,
+    "lng": 121.26938061683984,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0675",
+    "name": "Construction of Bicol River Flood Mitigation Structure, Barangay Ponong and Barangay Barobaybay, Magarao, Camarines Sur",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 13.672480403031022,
+    "lng": 123.17159056116056,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0676",
+    "name": "Construction of Bicol River Flood Mitigation Structure, Barangay San Nicolas, Canaman, Camarines Sur",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 13.657195220839684,
+    "lng": 123.10516422486027,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0717",
+    "name": "Construction of Flood Mitigation Structure along Pawili River, Barangay Santo Domingo, Bula, Camarines Sur",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 13.516223604454655,
+    "lng": 123.28134085196544,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0737",
+    "name": "Construction of Flood Mitigation Structure, Pawili River, Barangay Causip, Bula, Camarines Sur",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 13.50080280815447,
+    "lng": 123.28249560885712,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0740",
+    "name": "Construction of Flood Mitigation Structure, Tigman River, Barangay Cabanbanan, Calabanga, Camarines Sur",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 13.759496533364317,
+    "lng": 123.29875781566496,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0741",
+    "name": "Construction of Floodway Structure and River Improvement along Fabrica River, Barangay Sta. Remedios, Bulan, Sorsogon",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 12.675199204093053,
+    "lng": 123.91137324636956,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0743",
+    "name": "Construction of Floodway Structure and River Improvement along Quirangay River, Barangay Quirangay, Camalig, Albay",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 13.213856321452331,
+    "lng": 123.66433934965484,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0855",
+    "name": "Construction of Seawall, Victoria, Northern Samar",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 13.398350043270227,
+    "lng": 121.92216123050356,
+    "region": "Region VIII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0939",
+    "name": "Construction of Flood Mitigation Structure protecting Surigao del Sur Boundary - Davao Oriental Coastal Road (Dakung Banwa River), Boston, Davao Oriental",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 7.861813162139573,
+    "lng": 126.33331302846268,
+    "region": "Region XI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1590",
+    "name": "Construction of Flood Control Structure along Abra River, Downstream of Quirino Bridge, Quirino, Ilocos Sur :",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 16.436720956102842,
+    "lng": 121.59060545844363,
+    "region": "Region II",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1646",
+    "name": "Construction of Flood Control Structure along Cagayan River, Barangay Nassiping and Barangay San Vicente, Gattaran, Cagayan",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 18.048308091986133,
+    "lng": 121.72747501688092,
+    "region": "Region II",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1746",
+    "name": "Construction of Flood Mitigation Structure along Guaguga-Pasac River, Phase V, Sasmuan, Pampanga",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 15.0477019,
+    "lng": 120.66693146756865,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1776",
+    "name": "Construction of Flood Control Structure along Agos River, Package 10, Infanta, Quezon",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 14.731209408343153,
+    "lng": 121.65313929514132,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1777",
+    "name": "Construction of Flood Control Structure along Agos River, Package 11, Infanta, Quezon",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 14.731209408343153,
+    "lng": 121.65313929514132,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1778",
+    "name": "Construction of Flood Control Structure along Agos River, Package 9, Infanta, Quezon",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 14.731209408343153,
+    "lng": 121.65313929514132,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1911",
+    "name": "Construction of Flood Control Structure, Bacalan Br. Section (B00497MN), Lanao- Pagadian-Zamboanga City Rd (S01113MN), Zamboanga Sibugay",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 7.668004684527833,
+    "lng": 122.81281372646626,
+    "region": "Region IX",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1918",
+    "name": "Construction of Flood Control Structure, Kabasalan River (Upstream) (Phase 6), Package 3, Canacan, Kabasalan, Zamboanga Sibugay",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 7.832012242378944,
+    "lng": 122.8079836118693,
+    "region": "Region IX",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1919",
+    "name": "Construction of Flood Control Structure, Kipit River, Kipit Br. Section along Liloy - Siocon Road (S01146MN), Gutalac, Zamboanga del Norte",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 7.989155831379485,
+    "lng": 122.3654479106188,
+    "region": "Region IX",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-2034",
+    "name": "Construction of Flood Control Structure, Agusan River, Phase 6, Veruela, Agusan del Sur",
+    "status": "Proposed",
+    "budget": 200000000.0,
+    "lat": 8.023462913378506,
+    "lng": 125.91031332802774,
+    "region": "Region XII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1867",
+    "name": "Construction of Flood Mitigation Structure along Ilog-Hilabangan River (Approach B Downstream of Old Camugao Hanging Br.), Section 1, Barangay Camugao, Kabankalan City, Negros Occidental",
+    "status": "Proposed",
+    "budget": 195000000.0,
+    "lat": 10.450222625745488,
+    "lng": 123.00340905686686,
+    "region": "Region VI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1758",
+    "name": "Rehabilitation of Dike along Angat River at Barangay Sapang Bayan, Barangay Sto. Nino, Barangay Pungo, Calumpit, Bulacan",
+    "status": "Proposed",
+    "budget": 190000000.0,
+    "lat": 14.919648763711328,
+    "lng": 120.77605409561517,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1910",
+    "name": "Construction of Flood Control Structure at Sibuguey River, Sibuguey Br. Section (BO0480MN), Package 4, along Lanao-Pagadian-Zamboanga City Road (S01112MN) Upstream Left Side, Zamboanga Sibugay",
+    "status": "Proposed",
+    "budget": 190000000.0,
+    "lat": 7.668004684527833,
+    "lng": 122.81281372646626,
+    "region": "Region IX",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0339",
+    "name": "Construction of Abacan River Diking and Slope Protection Work, Phase 3, Mexico, Pampanga",
+    "status": "Proposed",
+    "budget": 186000000.0,
+    "lat": 15.08983684306614,
+    "lng": 120.70254531351256,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1926",
+    "name": "Construction of Flood Control Structure, Siocon River, Package 3, (Upstream), Siocon, Zamboanga del Norte",
+    "status": "Proposed",
+    "budget": 185360000.0,
+    "lat": 7.705846411379626,
+    "lng": 122.15308515976685,
+    "region": "Region IX",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0582",
+    "name": "Construction of Dike along Rio Grande River, Phase IV, Barangay Santiago, General Trias, Cavite",
+    "status": "Proposed",
+    "budget": 180000000.0,
+    "lat": 14.340350984786369,
+    "lng": 120.90753026146918,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0984",
+    "name": "Construction of Flood Mitigation Structure along Agay River, Barangay Balang-Balang, Remedios T. Romualdez, Agusan del Norte",
+    "status": "Proposed",
+    "budget": 180000000.0,
+    "lat": 9.053788092670665,
+    "lng": 125.59274949623814,
+    "region": "Region XI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": true,
+      "healthy": false,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0985",
+    "name": "Construction of Flood Mitigation Structure along Agay River, Barangay San Antonio, Remedios T. Romualdez, Agusan del Norte",
+    "status": "Proposed",
+    "budget": 180000000.0,
+    "lat": 9.066929174254303,
+    "lng": 125.6879428529995,
+    "region": "Region XI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": true,
+      "healthy": false,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0714",
+    "name": "Construction of Flood Mitigation Structure along Matoogtoog River, Barangay Hinipaan, Mercedes, Camarines Norte",
+    "status": "Proposed",
+    "budget": 175000000.0,
+    "lat": 13.990632190179896,
+    "lng": 123.04565075983304,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0715",
+    "name": "Construction of Flood Mitigation Structure along Matoogtoog River, Barangay Matoogtoog, Mercedes, Camarines Norte",
+    "status": "Proposed",
+    "budget": 175000000.0,
+    "lat": 14.00394723264053,
+    "lng": 123.02886047384688,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1905",
+    "name": "Construction of Flood Mitigation Structure, Pagsanga-an River Basin, Package 1, Ormoc, Leyte",
+    "status": "Proposed",
+    "budget": 175000000.0,
+    "lat": 11.005215251552968,
+    "lng": 124.7799898165803,
+    "region": "Region VIII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0710",
+    "name": "Construction of Flood Mitigation Structure along Lagonoy River, Barangay Saripongpong, Lagonoy, Camarines Sur",
+    "status": "Proposed",
+    "budget": 171000000.0,
+    "lat": 13.733294337999046,
+    "lng": 123.51448443438282,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-2028",
+    "name": "Construction of Flood Control Mitigation Structure along Agusan River (Tungao Section), Package 3, Butuan City, Agusan del Norte",
+    "status": "Proposed",
+    "budget": 171000000.0,
+    "lat": 9.025997185209178,
+    "lng": 125.51837723314888,
+    "region": "Region XII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0166",
+    "name": "Construction of Flood Control Structure along Amburayan River, Phase 1, Barangay Pallogan - Cabulanglangan - Ag-Aguman - Pula, Tagudin, Ilocos Sur",
+    "status": "Proposed",
+    "budget": 170000000.0,
+    "lat": 16.93414576975035,
+    "lng": 120.44898661165212,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0167",
+    "name": "Construction of Flood Control Structure along Amburayan River, Phase 2, Barangay Pallogan - Cabulanglangan - Ag-Aguman - Pula, Tagudin, Ilocos Sur",
+    "status": "Proposed",
+    "budget": 170000000.0,
+    "lat": 16.93414576975035,
+    "lng": 120.44898661165212,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0653",
+    "name": "Construction of Binayaan River Control Structure along Sibuyan Circumferential Road, Sibuyan, Romblon",
+    "status": "Proposed",
+    "budget": 170000000.0,
+    "lat": 12.535973152603782,
+    "lng": 122.10777621615026,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0705",
+    "name": "Construction of Flood Mitigation Structure along Culasi River, Barangay Pambuhan, Mercedes, Camarines Norte",
+    "status": "Proposed",
+    "budget": 170000000.0,
+    "lat": 13.969974755443095,
+    "lng": 123.0742318892618,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0706",
+    "name": "Construction of Flood Mitigation Structure along Guinacutan River, Barangay Guinacutan, Vinzons, Camarines Norte",
+    "status": "Proposed",
+    "budget": 170000000.0,
+    "lat": 14.164149771688123,
+    "lng": 122.88461688095084,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1773",
+    "name": "Rehabilitation of River Control System along Diteki - Aguang River Control, San Luis and Baler, Aurora",
+    "status": "Proposed",
+    "budget": 170000000.0,
+    "lat": 15.957341324354092,
+    "lng": 121.57014837659348,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1623",
+    "name": "Construction of Alimit Flood Control Structure, Sta. 54 + 790 - Sta. 55 + 345 (RS), Sta. 55 + 400 - Sta. 56 + 090 (LS), Alimit, Mayoyao, Ifugao",
+    "status": "Proposed",
+    "budget": 165000000.0,
+    "lat": 16.960189415508676,
+    "lng": 121.21171130278466,
+    "region": "Cordillera Administrative Region",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1872",
+    "name": "Construction of Flood Control Structure along Panalipan River, Package 1, Catmon, Cebu",
+    "status": "Proposed",
+    "budget": 165000000.0,
+    "lat": 10.690376163989464,
+    "lng": 123.97579188870294,
+    "region": "Region VII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0245",
+    "name": "Rehabilitation of Flood Control Structure, Amburayan River, Phase 1, Barangay Alzate - Barangay Generla Prim West, Bangar, La Union",
+    "status": "Proposed",
+    "budget": 160000000.0,
+    "lat": 16.89248664777574,
+    "lng": 120.4289178937086,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0990",
+    "name": "Construction of Hood Mitigation Structure, Package 1, Barangay Santa Ana, Nasipit, Agusan del Norte",
+    "status": "Proposed",
+    "budget": 160000000.0,
+    "lat": 8.983143462797644,
+    "lng": 125.3275199838146,
+    "region": "Region XI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1716",
+    "name": "Construction of Aguang Flood Control Structure, Phase 4, Baler, Aurora",
+    "status": "Proposed",
+    "budget": 160000000.0,
+    "lat": 15.957341324354092,
+    "lng": 121.57014837659348,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1902",
+    "name": "Construction of Flood Mitigation Structure along Daguitan River, Barangay Barbo, Dulag, Leyte",
+    "status": "Proposed",
+    "budget": 160000000.0,
+    "lat": 10.940939110667262,
+    "lng": 125.02764910201728,
+    "region": "Region VIII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0671",
+    "name": "Construction of Slope Protection Structure along New Ibajay Bridge, Taytay, Palawan",
+    "status": "Proposed",
+    "budget": 159000000.0,
+    "lat": 10.90342833595511,
+    "lng": 119.46583126287938,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0672",
+    "name": "Construction of Slope Protection Structure, Barangay San Jose, Roxas, Palawan",
+    "status": "Proposed",
+    "budget": 159000000.0,
+    "lat": 10.31701836967678,
+    "lng": 119.2543615517649,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0607",
+    "name": "Construction of Revetment along San Isidro River, Phase 1, Silang, Cavite",
+    "status": "Proposed",
+    "budget": 157000000.0,
+    "lat": 14.220569048041844,
+    "lng": 120.981097,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1798",
+    "name": "Construction of Flood Control Structure along Carguray River, Barangay Paclolo, Magsaysay, Occidental Mindoro",
+    "status": "Proposed",
+    "budget": 157000000.0,
+    "lat": 12.42844115662809,
+    "lng": 121.19138787384702,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0207",
+    "name": "Construction of Flood Mitigation Structure along Gantay River, Package A, Barangay Sipulo, Bacnotan, La Union",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 16.73831034516537,
+    "lng": 120.35326164228448,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0208",
+    "name": "Construction of Flood Mitigation Structure along Gantay River, Package B, Barangay Sipulo, Bacnotan, La Union",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 16.73831034516537,
+    "lng": 120.35326164228448,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0331",
+    "name": "Construction of Seawall, Barangay Minanga Este, Buguey, Cagayan",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 18.27166248088329,
+    "lng": 121.8917639972146,
+    "region": "Region II",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0336",
+    "name": "Construction of Tuguegarao Circumferential Dike Road, Package 5, Tuguegarao City, Cagayan",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 18.05472487807191,
+    "lng": 121.6285188950023,
+    "region": "Region II",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0744",
+    "name": "Construction of Malagunot River Flood Mitigation Structures, Barangay Angas and Barangay Tacad, Basud, Camarines Norte",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 14.04571105534469,
+    "lng": 122.97329602185545,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0745",
+    "name": "Construction of Malagunot River Flood Mitigation Structures, Barangay Hinampacan, Basud, Camarines Norte",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 14.075336299203205,
+    "lng": 122.99871158754314,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0863",
+    "name": "Construction of Flood Control Structure along Manil River at Manil Bridge Section (B00519MN) along Sindangan-Liloy Road (S01142MN), Leon T. Postigo, Zamboanga del Norte",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 8.165131777665572,
+    "lng": 122.95127675095227,
+    "region": "Region IX",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0867",
+    "name": "Construction of Flood Control Structure, Aguada River, Aguada Br. Section (BO0001BL) with Esplanade along Basilan Circumferential Road (S00002BL), Isabela City",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 6.549233701818385,
+    "lng": 122.03427737533995,
+    "region": "Region IX",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1594",
+    "name": "Construction of Flood Control Structure along Agno River, Barangay Armancosiling Norte - Barangay Armancosiling Sur, Bayambang, Pangasinan",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 15.805144320176572,
+    "lng": 120.43745760590475,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1595",
+    "name": "Construction of Flood Control Structure along Agno River, Barangay Manambong Norte - Barangay Manambong Sur, Bayambang, Pangasinan",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 15.805144320176572,
+    "lng": 120.43745760590475,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1626",
+    "name": "Construction of Dalimuno Flood Control Structure along Chico River, Dalimuno, Tabuk City, Kalinga",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 17.436634947326706,
+    "lng": 121.31202545721573,
+    "region": "Cordillera Administrative Region",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1814",
+    "name": "Construction of Bicol River Flood Mitigation Structure, Barangay Cagbibi, Pamplona, Camarines Sur",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 13.628911574157382,
+    "lng": 123.0974546240624,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1857",
+    "name": "Construction of Flood Control Structure of Malogo River, Abut. \"B\", Victorias City, Negros Occidental",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 10.450222625745488,
+    "lng": 123.00340905686686,
+    "region": "Region VI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1888",
+    "name": "Construction of Flood Control Structure along Binahaan River, Barangay San Isidro, Tanauan, Leyte",
+    "status": "Proposed",
+    "budget": 155000000.0,
+    "lat": 11.09049248996987,
+    "lng": 124.95285484154108,
+    "region": "Region VIII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1589",
+    "name": "Construction of Flood Control and Drainage Structures along Patog Cawan River, Barangay Pantal, Dagupan City, Pangasinan",
+    "status": "Proposed",
+    "budget": 154000000.0,
+    "lat": 16.05192113960711,
+    "lng": 120.33853805697473,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1903",
+    "name": "Construction of Flood Mitigation Structure along Gamay River, Barangay Cadacan, Gamay, Northern Samar",
+    "status": "Proposed",
+    "budget": 153000000.0,
+    "lat": 12.393893063314582,
+    "lng": 125.26038750537046,
+    "region": "Region VIII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0989",
+    "name": "Construction of Flood Mitigation Structure, Agay Bridge along Agay River (Downstream), Barangay Los Angeles, Butuan City, Agusan del Norte",
+    "status": "Proposed",
+    "budget": 152000000.0,
+    "lat": 9.025997185209178,
+    "lng": 125.51837723314888,
+    "region": "Region XI",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-1898",
+    "name": "Construction of Flood Control Structure along Sulat River, Barangay Sto. Nifio, Sulat, Eastern Samar",
+    "status": "Proposed",
+    "budget": 152000000.0,
+    "lat": 11.807586757858225,
+    "lng": 125.43300536808542,
+    "region": "Region VIII",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  
+  {
+    "id": "P-2026-0155",
+    "name": "Construction of Flood Control Structure along Agno and Tributary Rivers, Phase 1, Malasiqui, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.905962799594883,
+    "lng": 120.4496237,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0156",
+    "name": "Construction of Flood Control Structure along Agno and Tributary Rivers, Phase 2, Malasiqui, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.905962799594883,
+    "lng": 120.4496237,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0157",
+    "name": "Construction of Flood Control Structure along Agno and Tributary Rivers, Phase 2, San Carlos, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.988238629506368,
+    "lng": 120.39113135034655,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0158",
+    "name": "Construction of Flood Control Structure along Agno and Tributary Rivers, Phase 3, Malasiqui, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.905962799594883,
+    "lng": 120.4496237,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0159",
+    "name": "Construction of Flood Control Structure along Agno and Tributary Rivers, Phase 3, San Carlos, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.988238629506368,
+    "lng": 120.39113135034655,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0165",
+    "name": "Construction of Flood Control Structure along Amburayan River Barangay Old Central - Ilocano, Sudipen, La union",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.873888878399715,
+    "lng": 120.4809303506891,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0168",
+    "name": "Construction of Flood Control Structure along Angalacan - Bued River, Phase 1, Embarcadero - Guesang, Mangaidan, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.988238629506368,
+    "lng": 120.39113135034655,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0169",
+    "name": "Construction of Flood Control Structure along Angalacan - Bued River, Phase 2, Embarcadero - Guesang, Mangaldan, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.069672549915044,
+    "lng": 120.40431726555629,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0170",
+    "name": "Construction of Flood Control Structure along Angalacan - Bued River, Phase 3, Embarcadero - Guesang, Mangaldan, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.069672549915044,
+    "lng": 120.40431726555629,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0182",
+    "name": "Construction of Flood Control Structure along Bued River, Downstream of Macayug Bridge, Mangaldan, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.069672549915044,
+    "lng": 120.40431726555629,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0183",
+    "name": "Construction of Flood Control Structure along Bued River, Upstream of Macayug Bridge, Mangaldan, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.069672549915044,
+    "lng": 120.40431726555629,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0204",
+    "name": "Construction of Flood Control Structure, Package 1, Binalonan - Urdaneta City, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.988238629506368,
+    "lng": 120.39113135034655,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0214",
+    "name": "Construction of River Protection System along Agno and Allied Rivers, Phase 1, Bayambang, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.805144320176572,
+    "lng": 120.43745760590475,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0215",
+    "name": "Construction of River Protection System along Agno and Allied Rivers, Phase 1, Santa Maria-Balungao, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.988238629506368,
+    "lng": 120.39113135034655,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0217",
+    "name": "Construction of River Protection System along Agno and Allied Rivers, Phase 2, Bayambang, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.805144320176572,
+    "lng": 120.43745760590475,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0218",
+    "name": "Construction of River Protection System along Agno and Allied Rivers, Phase 2, Santa Maria-Balungao, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.988238629506368,
+    "lng": 120.39113135034655,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0219",
+    "name": "Construction of River Protection System along Agno and Allied Rivers, Phase 3, Bayambang, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.805144320176572,
+    "lng": 120.43745760590475,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0220",
+    "name": "Construction of River Protection System along Agno and Allied Rivers, Phase 3, Santa Maria-Balungao, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.988238629506368,
+    "lng": 120.39113135034655,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0221",
+    "name": "Construction of River Protection System along Agno, Phase 1, San Juan, Ingalera and Allied Rivers, Malasiqui, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.905962799594883,
+    "lng": 120.4496237,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0222",
+    "name": "Construction of River Protection System along Agno, Phase 2, San Juan, Ingalera and Allied Rivers, Malasiqui, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.905962799594883,
+    "lng": 120.4496237,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0223",
+    "name": "Construction of River Protection System along Agno, Phase 3, San Juan, Ingalera and Allied Rivers, Malasiqui, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.905962799594883,
+    "lng": 120.4496237,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0224",
+    "name": "Construction of River Protection System along Agno, San Juan, Ingalera and Allied Rivers, Phase 1, Mapandan, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.025254462965254,
+    "lng": 120.45331862793344,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0225",
+    "name": "Construction of River Protection System along Agno, San Juan, Ingalera and Allied Rivers, Phase 2, Mapandan, Pangasinan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.025254462965254,
+    "lng": 120.45331862793344,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0242",
+    "name": "Rehabilitation of Dike, Phase 2, Barangay Nangalisan-Nalbo-Tangid, Laoag City, Ilocos Norte",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 18.157011991252663,
+    "lng": 120.63535528454372,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0259",
+    "name": "Construction of Flood Control Structure along Tanglag - Mabunot Road, Tanglag, Lubuagan, Kalinga",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 17.353613632499915,
+    "lng": 121.1772426083314,
+    "region": "Cordillera Administrative Region",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0273",
+    "name": "Construction of Wanayon Flood Control Structure, Tomiangan, Pasil, Kalinga",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 17.386938930650977,
+    "lng": 121.14559215735788,
+    "region": "Cordillera Administrative Region",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0279",
+    "name": "Construction of Flood Control and Drainage Structure (FCDS) along Sta. Cruz River, Salinas Section 3, Bagabag, Nueva Vizcaya",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.606425681495132,
+    "lng": 121.24788116681566,
+    "region": "Region II",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0338",
+    "name": "Rehabilitation of Flood Control Structure along Lamut River, Sta. Lucia Section, Bagabag, Nueva Vizcaya",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 16.606425681495132,
+    "lng": 121.24788116681566,
+    "region": "Region II",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0444",
+    "name": "Construction of Flood Control Structure, Masalasa Creek, Section 6, Tarlac City, Tarlac",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.57167963267228,
+    "lng": 120.55214861830808,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0452",
+    "name": "Construction of Flood Control Structure, Sabang, Baler, Aurora",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.957341324354092,
+    "lng": 121.57014837659348,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0460",
+    "name": "Construction of Flood Control Structure, Suklayin River, Baler, Aurora",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.957341324354092,
+    "lng": 121.57014837659348,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0472",
+    "name": "Construction of Flood Mitigation Structure along Dila-Dila Creek, Phase 2-B, Dinalupihan, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.867877692866402,
+    "lng": 120.43803747455269,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0500",
+    "name": "Construction of Flood Mitigation Structure, Sta. 0 + 000 - Sta. 1 + 264.00, Santa Monica, Sasmuan, Pampanga",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.0477019,
+    "lng": 120.66693146756865,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0512",
+    "name": "Construction of Obando Road Dike (Tawiran -Paliwas Section), Sta.01 + 200 - Sta. 01 + 330, Obando, Bulacan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.715285879784162,
+    "lng": 120.92587148567392,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0517",
+    "name": "Construction of Slope Protection Structure along Are Creek, Apalit, Pampanga, Downstream to Barangay Telacsan, Macabebe, Pampanga",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.94286710845103,
+    "lng": 120.72300979672472,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0518",
+    "name": "Construction of Slope Protection Structure Along Banayam River, Segment R, Bagac, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.58574376475168,
+    "lng": 120.41323001293055,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0520",
+    "name": "Construction of Slope Protection Structure along Colo River, Phase 1, Dulet Section, Dinalupihan, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.867877692866402,
+    "lng": 120.43803747455269,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0521",
+    "name": "Construction of Slope Protection Structure Along Colo River, Segment B, Pinulot - San Pablo Section, Dinalupihan, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.867877692866402,
+    "lng": 120.43803747455269,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0522",
+    "name": "Construction of Slope Protection Structure Along Colo River, Segment B, Saguing - San Benito Section, Dinalupihan, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.867877692866402,
+    "lng": 120.43803747455269,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0523",
+    "name": "Construction of Slope Protection Structure Along Colo River, Segment B, San Pablo - Roosevelt Section, Dinalupihan, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.867877692866402,
+    "lng": 120.43803747455269,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0524",
+    "name": "Construction of Slope Protection Structure Along Dila-Dila Creek, Segment S-T, Dinalupihan, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.867877692866402,
+    "lng": 120.43803747455269,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0527",
+    "name": "Construction of Slope Protection Structure Along Lower Paysawan River (Downstream), Barangay Paysawan, Bagac, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.539619643805894,
+    "lng": 120.40187772043362,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0528",
+    "name": "Construction of Slope Protection Structure Along Pagalanggang River, San Simon 1 - Tucop Section 3, Dinalupihan, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.867877692866402,
+    "lng": 120.43803747455269,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0537",
+    "name": "Construction of Slope Protection Structure along Tukok River, Phase 1, Barangay Ibis, Bagac, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.58574376475168,
+    "lng": 120.41323001293055,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0538",
+    "name": "Construction of Slope Protection Structure Along Umagol River, Downstream Segment D, Bagac, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.58574376475168,
+    "lng": 120.41323001293055,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0539",
+    "name": "Construction of Slope Protection Structure Along Umagol River, Downstream Segment E, Bagac, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.58574376475168,
+    "lng": 120.41323001293055,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0540",
+    "name": "Construction of Slope Protection Structure Along Umagol River, Upstream Segment A, Bagac, Bataan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.58574376475168,
+    "lng": 120.41323001293055,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0542",
+    "name": "Construction of Slope Protection Structure at Barangay Sta. Maria, Minalin and Paligui, Apalit, Pampanga",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.95764312,
+    "lng": 120.76912497061556,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0543",
+    "name": "Construction of Slope Protection Structure at Downstream Part of Palaman River, Minalin, Pampanga",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.9641502,
+    "lng": 120.686910411053,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0557",
+    "name": "Construction of Slope Protection Structure, Upper Dalan Bapor, Sasmuan, Pampanga",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.0477019,
+    "lng": 120.66693146756865,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0558",
+    "name": "Construction of Tarlac City Urban Drainage System, Segment 7, Tarlac City, Tarlac",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 15.57167963267228,
+    "lng": 120.55214861830808,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0559",
+    "name": "Construction of Tarlac City Urban Drainage System, Segment 8, Tarlac City, Tarlac Pampanga Delta Development Project, Phase III, Calumpit, Bulacan",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.906996090663958,
+    "lng": 120.77177840119816,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0587",
+    "name": "Construction of Flood Control Structure along Bugaan River (Downstream) Phase 1, Laurel, Batangas",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.058175226869713,
+    "lng": 120.91054785584107,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0588",
+    "name": "Construction of Flood Control Structure along Bugaan River (Downstream) Phase 2, Laurel, Batangas",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.058175226869713,
+    "lng": 120.91054785584107,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0589",
+    "name": "Construction of Flood Control Structure along Bugaan River (Upstream) Phase 1, Laurel, Batangas",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.058175226869713,
+    "lng": 120.91054785584107,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0615",
+    "name": "Construction of Revetment along Zapote River, Phase 1, Barangay Aniban to Barangay Ligas, Bacoor City, Cavite",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.44614330210171,
+    "lng": 120.95664137795598,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0616",
+    "name": "Construction of Revetment along Zapote River, Phase I, Barangay Molino III, Bacoor City, Cavite",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.393521705839373,
+    "lng": 120.98422562057388,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": true,
+      "healthy": false,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0618",
+    "name": "Construction of Revetment Wall along Laguna Lakeshore, Barangay Landayan, San Pedro, Laguna",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.355409255283766,
+    "lng": 121.06834205335488,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0629",
+    "name": "Construction of Seawall along Tayabas Bay (Package 1), Lucena City, Quezon",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 13.974579170518728,
+    "lng": 121.98150261254462,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0635",
+    "name": "Construction of Slope Protection Structure along Lawaye River, Barangay Poctol, Municipality of San Juan, Batangas",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 13.817933192771743,
+    "lng": 121.44369914361994,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": true,
+      "healthy": false,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0638",
+    "name": "Construction of Slope Protection Structure along Taal Lake Circumferential Road, Agoncillo, Batangas",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 13.943435565719192,
+    "lng": 120.92938026981548,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0639",
+    "name": "Construction of Slope Protection Structure along Taal Lake Circumferential Road, Balete, Batangas",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 14.01759763985556,
+    "lng": 121.09819946591244,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0640",
+    "name": "Construction of Slope Protection Structure along Taal Lake Circumferential Road, Tanauan City, Batangas",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 13.881659219675663,
+    "lng": 121.01110798496656,
+    "region": "Region IV",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0678",
+    "name": "Construction of Donsol River Flood Mitigation Structure, Barangay Dancalan, Donsol, Sorsogon",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 12.92118422893939,
+    "lng": 123.58490763713796,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0679",
+    "name": "Construction of Donsol River Flood Mitigation Structure, Barangay Tupas, Donsol, Sorsogon",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 12.922246735643986,
+    "lng": 123.5963138718382,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0681",
+    "name": "Construction of Flood Control Dike and Drainage System along Taysan-Makabalo River, Legazpi City, Albay",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 13.213831575161535,
+    "lng": 123.6541375117568,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0694",
+    "name": "Construction of Flood Control Structure, Phase 4, Barangay San Ramon - Barangay N. Roque, Bulan, Sorsogon",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 12.675199204093053,
+    "lng": 123.91137324636956,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "P-2026-0707",
+    "name": "Construction of Flood Mitigation Structure along Himoragat, Tinambac, Camarines Sur",
+    "status": "Proposed",
+    "budget": 150000000.0,
+    "lat": 13.851363571741745,
+    "lng": 123.3434761320106,
+    "region": "Region V",
+    "contractor": "—",
+    "year": 2026,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": true,
+      "healthy": false,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-0",
+    "name": "Construction of Babuyan River Flood Control Strucure Downstream (RS), Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 9.99653,
+    "lng": 118.89245,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-1",
+    "name": "Construction of Flood Control Strucurue along Langogan River Downstream (LS), Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 9.99761,
+    "lng": 118.89251,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-2",
+    "name": "Construction of Babuyan River Flood Control Strucure Upstream (LS), Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 9.99671,
+    "lng": 118.89323,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-3",
+    "name": "Construction of Flood Control Structure, Barangay Maoyon, Puerto Princesa City, Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 10.00265833,
+    "lng": 118.89970167,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-4",
+    "name": "Construction of Tanabag River Waterway, (Upstream Rightside), Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 9.99904334,
+    "lng": 118.99017684,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-5",
+    "name": "Construction of Flood Control Strucurue along Langogan River Upstream (LS), Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 10.02967,
+    "lng": 119.12203,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-6",
+    "name": "Construction of Flood Control Strucuruealong Langogan River Upstream (RS), Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.02881,
+    "lng": 119.12383,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-7",
+    "name": "Construction of Flood Control Strucurue along Langogan River Downstream (RS), Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 10.02751,
+    "lng": 119.12416,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-8",
+    "name": "Construction of Magsarongsong Bridge Flood Control Structure, Sta. 0 + 000.00 - Sta. 0 + 084.00, Bank I UPSTREAM (L/S), Sta. 0 + 000.00 - Sta. 0 + 084.00, BANK II UPSTREAM (L/S), Roxas, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.25288,
+    "lng": 119.206224,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-9",
+    "name": "Construction of Slope Protection along Sinucalan River, Barangay Poblacion Norte, Sta. Barbara, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.006788,
+    "lng": 120.400763,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-10",
+    "name": "Construction of Flood Control Structure along Tulariquin River (RS), Roxas, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.147,
+    "lng": 119.21562,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-11",
+    "name": "Construction of Slope Protection Structure along Tagumpay Bridge, Roxas, Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 10.27601,
+    "lng": 119.22557,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-12",
+    "name": "Construction of Sea Wall, Barangay Caramay, Roxas, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.183842,
+    "lng": 119.231534,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-13",
+    "name": "Construction/Improvement of Storm Drainage System at Purok Zambales, Brgy. 3, Roxas, Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 10.32404,
+    "lng": 119.34648,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-14",
+    "name": "Construction of Slope Protection Structure along Iraan Bridge, Roxas, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.42931,
+    "lng": 119.37435,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-15",
+    "name": "Construction of Seawall, Brgy. Buenasuerte, El Nido, Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 11.18027778,
+    "lng": 119.3863889,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2021,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-16",
+    "name": "Construction of Slope Protection Structure along Lamoro Bridge 1, El Nido, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 11.19344,
+    "lng": 119.41688,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-17",
+    "name": "Construction of Lamoro Bridge III Flood Control Structure, Sta. 0 + 000 - Sta. 0 + 080.85, El Nido, Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 11.243519,
+    "lng": 119.430384,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-18",
+    "name": "Construction of Drainage System, Tumarbong, Roxas, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.379389,
+    "lng": 119.461795,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-19",
+    "name": "Construction of Abongan CIS Drainage Canal, Taytay, Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 10.68633,
+    "lng": 119.46259,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-20",
+    "name": "Construction of Bato Bridge Flood Control Structure, Taytay, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.717258,
+    "lng": 119.493683,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-21",
+    "name": "Construction of Slope Protection Structure along Balite Bridge, Taytay, Palawan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 10.64284,
+    "lng": 119.496278,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-22",
+    "name": "Construction of Slope Protection Structure along Talog Bridge, Taytay, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 10.64781,
+    "lng": 119.50026,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-23",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Boboy Section), Sta. 000+180 - Sta. 000+610, Barangay Boboy, Agno, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.132714,
+    "lng": 119.778189,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-24",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Boboy Section), Sta. 000+610 - Sta. 001+040, Barangay Boboy, Agno, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.134808,
+    "lng": 119.781525,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-25",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Aloleng Section), Sta. 002+019.5 - Sta. 002+536.1, Barangay Aloleng, Agno, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.128232,
+    "lng": 119.787802,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-26",
+    "name": "Construction of Flood Mitigation Facilities along Balingcaguing River (Aloleng Section), Sta. 002+059 - Sta. 002+303, Barangay Aloleng, Agno, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.131694,
+    "lng": 119.787876,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-27",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Aloleng Section), Sta. 002 + 896.6 - Sta. 003 + 296.6, Barangay Aloleng, Agno, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.1282539167,
+    "lng": 119.7881125833,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-28",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Poblacion West Section), Sta. 001+848 - Sta. 002+278, Barangay Poblacion West, Agno, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.128628,
+    "lng": 119.78954,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-29",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Poblacion West Section), Sta. 001+418 - Sta. 001+848, Barangay Poblacion West, Agno, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.124765,
+    "lng": 119.790688,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-30",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Poblacion West Section) Sta. 001+900-Sta. 002+680, barangay Poblacion West, Agno, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.121518,
+    "lng": 119.792725,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-31",
+    "name": "Construction of Flood Mitigation Facilities along Balingcaguing River (Poblacion East Section), Sta. 003+436 - Sta. 003+680, Barangay Poblacion East, Agno, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.113559,
+    "lng": 119.799836,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-32",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River, Sta. 004+564.2 - Sta. 005+073.8, Barangay Poblacion East, Agno, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.111824,
+    "lng": 119.801599,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-33",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Bangan-Oda Section), Sta. 007+850 - Sta. 008+250, Barangay Bangan-Oda, Agno, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.108686,
+    "lng": 119.829299,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-34",
+    "name": "Construction of Flood Control Structure, Brgy. Hermosa, Dasol, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.941711,
+    "lng": 119.865492,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-35",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Caranglaan Section), Sta. 017+829 - Sta. 018+229, Barangay Caranglaan, Mabini, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.0883,
+    "lng": 119.8757,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-36",
+    "name": "Construction of Buluang Bridge I Flood Control Structure, Sta. 0 + 044.64 - Sta. 0 + 095.00 (UPSTREAM - BK.I), Sta. 0 + 000 - Sta. 0 + 095.00 (UPSTREAM - BK. II), Sta. 0 + 000.00 - Sta. 0 + 026.00 (DOWNSTREASM - BK. II), Busuanga, Palawan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 12.221611,
+    "lng": 119.877454,
+    "region": "Region IV-B",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-37",
+    "name": "Construction of Slope Protection Structure along Balingcaguing River (Caranglaan Section), Sta.017+092 - Sta. 017+457, Caranglaan, Mabini, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.082542,
+    "lng": 119.886445,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-38",
+    "name": "Construction of Slope Protection Structure along Balingcaguing River (Caranglaan Section), Sta.017+457 - Sta. 017+822, Caranglaan, Mabini, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.081463,
+    "lng": 119.889496,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-39",
+    "name": "Construction of Flood Control along Balingcaguing River, Barangay Anapao, Burgos, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.079879,
+    "lng": 119.890938,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-40",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Caranglaan Section), Sta. 017 + 822 - Sta. 018 + 602, Barangay Caranglaan, Mabini, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.076452,
+    "lng": 119.892779,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-41",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Tambacan Section) Sta.018+674 - Sta.019+323, Brgy. Tambacan, Burgos, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.075354,
+    "lng": 119.894204,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-42",
+    "name": "Construction of Flood Mitigation Structure along Bayambang River, Sta. 000+500 - Sta. 001+013.1, R/S, Barangay Bayambang, Infanta, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.88173,
+    "lng": 119.897591,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-43",
+    "name": "Construction of Gama River Flood Control Structure, Package 1, Sta. Cruz, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.784678,
+    "lng": 119.910846,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-44",
+    "name": "Construction of Gama River Slope Protection/ Flood Control Structure Phase 3, Sta. Cruz, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.788027,
+    "lng": 119.910956,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-45",
+    "name": "Construction of Gama River Slope Protection/ Flood Control Structure Phase 2, Sta. Cruz, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.788168,
+    "lng": 119.911072,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-46",
+    "name": "Construction of Flood Mitigation Structure, Bayto River (Upstream North Approach), Sta. Cruz, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.722124,
+    "lng": 119.911692,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-47",
+    "name": "Construction of Drainage System, Maestre St., Brgy. Poblacion, Sta. Cruz, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.761437,
+    "lng": 119.914663,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-48",
+    "name": "Construction of Line Canal, Barangay Libertador, Candelaria, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.622302,
+    "lng": 119.915881,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-49",
+    "name": "Construction of Flood Mitigation Structure along Nayom River, Sta. 005+775.6 - Sta. 006+285.2, Barangay Maya, Infanta, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.816277,
+    "lng": 119.923106,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-50",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Calzada Section), Sta. 025+700 - Sta. 026+130, Barangay Calzada, Mabini, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.078171,
+    "lng": 119.926663,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-51",
+    "name": "Construction of Slope Protection Structure along Nayom River, Sta.006+285.2 - Sta. 006+922.2, Maya, lnfanta, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.807302,
+    "lng": 119.928258,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-52",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Calzada Section), Sta. 026+130 - Sta. 026+560, Barangay Calzada, Mabini, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.075554,
+    "lng": 119.929609,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-53",
+    "name": "Construction of Slope Protection Structure along Nayom River, Sta.006+922.2 - Sta. 007+559.2, Maya, lnfanta, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.810125,
+    "lng": 119.933349,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-54",
+    "name": "Construction of Bank Slope Protection along Nayom River, Sta. 007+559.2 - Sta. 008+159.2, Barangay Maya, Infanta, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.81281,
+    "lng": 119.938083,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-55",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Poblacion Section), Sta. 027 + 420 - Sta. 028 + 200, Barangay Poblacion, Mabini, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.068056,
+    "lng": 119.940066,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-56",
+    "name": "Construction of Flood Mitigation Structure along Balingcaguing River (Poblacion Section), Sta. 027+880 - Sta. 028+203, Barangay Poblacion, Mabini, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.058989,
+    "lng": 119.94275,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-57",
+    "name": "Construction of Flood Mitigation Facilities, Alaminos River (Palamis Section), Sta. 016+340 - Sta. 016+584, Barangay Palamis, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.140739,
+    "lng": 119.947081,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-58",
+    "name": "Construction of Marangla River Flood Control Structure, Package 1, Iba, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.38565,
+    "lng": 119.961637,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-59",
+    "name": "Construction of Slope Protection along Olongapo-Bugallon Road, Pangolingan Section (Phase 3), Palauig, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.475036,
+    "lng": 119.961721,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-60",
+    "name": "Construction of Slope Protection along Olongapo-Bugallon Road, Salaza Section (Phase 3), Palauig, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.470612,
+    "lng": 119.963464,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-61",
+    "name": "Construction of Slope Protection along Olongapo-Bugallon Road, Salaza Section (Phase 4), Palauig, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.47062,
+    "lng": 119.963464,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-62",
+    "name": "Construction/Rehabilitation/Improvement of Slope Protection along Olongapo - Bugallon Road, Pangolingan Section (Phase 2), Palauig, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.469899,
+    "lng": 119.963824,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2021,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-63",
+    "name": "Construction of Guisguis Flood Control at Nayum River, Brgy. Guisguis, Sta. Cruz, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.806961,
+    "lng": 119.967118,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-64",
+    "name": "Construction of Flood Control Mitigation Structure along Alaminos River, Sta. 009+886 - Sta. 010+425, Barangay Jose, Alaminos City, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.170863,
+    "lng": 119.968266,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-65",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River , Sta. 009+772.9 - Sta. 010+172.9, Barangay Cayucay, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.17243,
+    "lng": 119.968294,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-66",
+    "name": "Rehabilitation of Flood Mitigation Structure, Barangay Telbang, Alaminos City, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.0968465671925,
+    "lng": 119.969155179269,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2025,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-67",
+    "name": "Construction of Flood Control Mitigation Structure along Alaminos River, Sta. 009+347 - Sta. 009+886, Barangay Jose, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.173912,
+    "lng": 119.970262,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-68",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River (Palamis Section) Sta.015+259 - Sta.015+979, Brgy. Palamis, Alaminos City, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.142784,
+    "lng": 119.971094,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-69",
+    "name": "Construction of Slope Protection Structure along Alaminos River, Sta.009+372.9 - Sta. 009+772.9, Cayucay, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.17346,
+    "lng": 119.971324,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-70",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River, Sta. 010+172.9 - Sta. 010+702.8, Barangay Poblacion to Cayucay, Alaminos City, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.170454,
+    "lng": 119.971464,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-71",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River (Pogo Section) Sta.010+362 - Sta.011+082, Brgy. Pogo, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.167279,
+    "lng": 119.971992,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-72",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River (Poblacion Section) Sta.011+058 - Sta.011+778, Brgy. Poblacion, Alaminos City, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.16733,
+    "lng": 119.972413,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-73",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River (Pogo Section), Sta. 010+525 - Sta. 010+925, Barangay Pogo, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.169862,
+    "lng": 119.9734,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-74",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River (Pogo Section), Sta. 009 + 912 - Sta. 010 + 692, Barangay Pogo, Alaminos City, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.167831,
+    "lng": 119.975323,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-75",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River (Poblacion Section), Sta. 010 + 621 - Sta. 011 + 401, Barangay Poblacion, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.166815,
+    "lng": 119.975441,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-76",
+    "name": "Construction of Flood Mitigation Structure along Alaminos River, Palamis Section, Sta. 015+979 - Sta. 016+495, Alaminos, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.138594,
+    "lng": 119.975694,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-77",
+    "name": "Construction of Bank Slope Protection along Alaminos River, Sta. 008+572.9 - Sta. 008+972.9, Barangay Cayucay, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.177186,
+    "lng": 119.976198,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-78",
+    "name": "Construction of Slope Protection at Pinagrealan, Upstream, Candelaria, Zambales (Phase 1)",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.586431,
+    "lng": 119.979884,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-79",
+    "name": "Construction of Slope Protection at Pinagrealan, Upstream, Candelaria, Zambales (Phase 2)",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.586438,
+    "lng": 119.979884,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-80",
+    "name": "Construction of Guinabon Flood Control at Nayum River, Brgy. Guinabon, Sta. Cruz, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.809271,
+    "lng": 119.984052,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-81",
+    "name": "Construction of Slope Protection at Pinagrealan, Upstream, Candelaria, Zambales (Phase 3)",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.594575,
+    "lng": 119.988579,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-82",
+    "name": "Construction of Slope Protection at Pinagrealan, Upstream, Candelaria, Zambales (Phase 4)",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.594505,
+    "lng": 119.990359,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-83",
+    "name": "Construction of Slope Protection at Lawis River Upstream, Candelaria, Zambales (Phase 2)",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.593231,
+    "lng": 119.993756,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-84",
+    "name": "Construction of Slope Protection/Sea Wall, Brgy. Bangan, Botolan, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.275352,
+    "lng": 120.007582,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-85",
+    "name": "Construction of Flood Mitigation Structure,Tambak River (Upstream) Phase III, Iba, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.332465,
+    "lng": 120.008196,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-86",
+    "name": "Construction of Flood Mitigation Structure,Tambak River (Upstream) Phase IV, Iba, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.334361,
+    "lng": 120.008643,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-87",
+    "name": "Construction of Flood Mitigation Facilities along Alaminos River (Barangay Cabatuan - Victoria Section), Sta. 024+385 - Sta. 024+629, Alaminos City, Pangasinan",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.115065,
+    "lng": 120.008678,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-88",
+    "name": "Construction of Flood Control Structure along Bancal-San Isidro-Mambog River (Totun Lanum) Phase 3, Sitio Tambak, (North Side), Barangay Palanginan, Iba, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.319846,
+    "lng": 120.008689,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-89",
+    "name": "Construction of Flood Control Structure, Brgy. Lucap, Alaminos City, Pangasinan (Package II)",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 16.182669,
+    "lng": 120.008813,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2024,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-90",
+    "name": "Construction of Flood Mitigation Structure,Tambak River (Upstream) Phase II, Iba, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.330417,
+    "lng": 120.009491,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-91",
+    "name": "Construction of Slope Protection/Flood Control Structure along Tambak River (Upstream), Phase 6, Iba, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.333914,
+    "lng": 120.010577,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-92",
+    "name": "Construction of Flood Mitigation Structure,Tambak River (Upstream), Iba, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.327896,
+    "lng": 120.011307,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-93",
+    "name": "Construction of Flood Control Structure at Bucao River North Approach Downstream, Botolan, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.269167,
+    "lng": 120.015853,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-94",
+    "name": "Construction of Flood Control along Batonlapoc Creek, Batonlapoc, Botolan, Zambales",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.290068,
+    "lng": 120.028599,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-95",
+    "name": "Construction of Flood Control Structure at Bucao River North Approach Downstream Phase 2, Botolan, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.2656,
+    "lng": 120.03,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-96",
+    "name": "Construction of Riverbank Protection along Sinucalan River, Barangay Bacayao Norte, Dagupan City, Pangasinan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 16.034463,
+    "lng": 120.034463,
+    "region": "Region I",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-97",
+    "name": "Rehabilitation of Flood Control Structure at Bucao River, Upstream, Sta. 0 + 500 - Sta. 0 + 950, Botolan, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.269232,
+    "lng": 120.040069,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-98",
+    "name": "Construction of Flood Control Structure along Bulo River, San Miguel, Bulacan",
+    "status": "Completed",
+    "budget": 0.0,
+    "lat": 15.24101,
+    "lng": 120.04711,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2022,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  },
+  {
+    "id": "SP-99",
+    "name": "Construction of Slope Protection Structure (Upstream L/S) along the highway going to Olongapo, Barangay Banuanbayo, Cabangan, Zambales",
+    "status": "In Progress",
+    "budget": 0.0,
+    "lat": 15.156488,
+    "lng": 120.055051,
+    "region": "Region III",
+    "contractor": "—",
+    "year": 2023,
+    "flags": {
+      "poorlySituated": false,
+      "similarProject": false,
+      "healthy": true,
+      "other": false
+    }
+  }
+]
