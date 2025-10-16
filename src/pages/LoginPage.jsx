@@ -3,6 +3,8 @@ import { Box, Paper, Container, Typography, TextField, FormControlLabel, Checkbo
 import LockIcon from "@mui/icons-material/Lock";
 import { useAuth } from "../app/auth/AuthContext.jsx";
 import { useLocation, useNavigate } from "react-router-dom";
+import logo from '../data/sandata-logo.png'; 
+import bagong from '../data/bagong-pilipinas.png';
 
 export default function LoginPage(){
   const { user, login } = useAuth();
@@ -34,7 +36,7 @@ export default function LoginPage(){
         <Paper elevation={6} sx={{ p: 4, borderRadius: 3 }}>
           <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
             <img
-              src="/logos/sandata-logo.png"
+              src={logo}
               alt="SANDATA Systems Logo"
               width="36"
               height="36"
@@ -60,7 +62,7 @@ export default function LoginPage(){
           </Box>
           <Divider sx={{ my: 3 }} />
           <Box sx={{ display: "flex", alignItems: "center", gap: 2, justifyContent: "center" }}>
-            <img src="/logos/bagong-pilipinas.png" width="36" height="36" alt="Bagong Pilipinas" style={{ borderRadius: 999 }} />
+            <img src={bagong} width="36" height="36" alt="Bagong Pilipinas" style={{ borderRadius: 999 }} />
             <Typography variant="body2">Bagong Pilipinas</Typography>
           </Box>
         </Paper>

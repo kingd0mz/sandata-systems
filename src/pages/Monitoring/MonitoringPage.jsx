@@ -23,6 +23,8 @@ import VisibilityIcon from "@mui/icons-material/Visibility";
 import TopBar from "../../components/TopBar.jsx";
 import Footer from "../../components/Footer.jsx";
 import { useNavigate } from "react-router-dom";
+import raw from "../../data/flood_projects_array.json"; // sample data
+
 
 // Keep status bucketing consistent with Overview
 function statusBucket(s) {
@@ -44,10 +46,7 @@ export default function MonitoringPage() {
 
   // Load the same JSON as Overview
   useEffect(() => {
-    fetch("/data/flood_projects_array.json")
-      .then((r) => r.json())
-      .then((data) => {
-        const rows = (Array.isArray(data) ? data : []).map((d) => ({
+        const rows = (Array.isArray(raw) ? raw : []).map((d) => ({
           id: d.id,
           code: d.id,                            // use id as code
           name: d.name,
@@ -60,9 +59,7 @@ export default function MonitoringPage() {
           lng: d.lng,
           year: d.year,
         }));
-        setProjects(rows);
-      })
-      .catch(() => setProjects([]));
+        setProjects(rows)
   }, []);
 
   const filtered = useMemo(() => {

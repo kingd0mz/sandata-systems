@@ -9,6 +9,7 @@ import L from "leaflet";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Legend, PieChart, Pie, Cell, CartesianGrid,
 } from "recharts";
+import raw from "../../data/flood_projects_array.json"; // sample data
 
 // ───────────────── helpers ─────────────────
 function statusBucket(s) {
@@ -64,15 +65,10 @@ export default function OverviewPage() {
 
   // IMPORTANT: place the JSON at /public/data/flood_projects_array.json
   useEffect(() => {
-    fetch("/data/flood_projects_array.json")
-      .then((r) => r.json())
-      .then((data) => {
-        const cleaned = (Array.isArray(data) ? data : [])
-          .filter(d => Number.isFinite(d?.lat) && Number.isFinite(d?.lng)); // skip missing/NaN coords
-        setProjects(cleaned);
-      })
-      .catch(() => setProjects([]));
-  }, []);
+  const cleaned = (Array.isArray(raw) ? raw : [])
+    .filter(d => Number.isFinite(d?.lat) && Number.isFinite(d?.lng));
+  setProjects(cleaned);
+}, []);
 
   // dynamic year list (fix: add dependency on projects)
   const years = useMemo(() => {

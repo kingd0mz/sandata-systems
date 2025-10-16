@@ -7,6 +7,7 @@ import AdminPanelSettingsIcon from "@mui/icons-material/AdminPanelSettings";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../app/auth/AuthContext.jsx";
 import NavTabs from "./NavTabs.jsx";
+import logo from "../data/sandata-logo.png";
 
 export default function TopBar() {
   const { user, logout } = useAuth();
@@ -22,7 +23,7 @@ export default function TopBar() {
         {/* Logo + Title */}
         <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
           <img
-            src="/logos/sandata-logo.png"
+            src={logo}
             alt="SANDATA Systems Logo"
             width="36"
             height="36"

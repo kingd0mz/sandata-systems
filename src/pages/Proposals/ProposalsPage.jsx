@@ -13,6 +13,7 @@ import { useNavigate } from "react-router-dom";
 import StatusChip from "../../components/proposals/StatusChip.jsx";
 import FlagChips from "../../components/proposals/FlagChips.jsx";
 import ProposalFormDialog from "../../components/proposals/ProposalFormDialog.jsx";
+import raw from "../../data/seed_proposals_200.json"; // sample data
 
 function cmpDesc(a, b, k) { return b[k] < a[k] ? -1 : b[k] > a[k] ? 1 : 0; }
 function getComparator(order, k) { return order === "desc" ? (a,b)=>cmpDesc(a,b,k) : (a,b)=>-cmpDesc(a,b,k); }
@@ -34,24 +35,27 @@ export default function ProposalsPage(){
   const [openNew, setOpenNew] = useState(false);
 
   useEffect(() => {
-    fetch("/data/seed_proposals_200.json")
-      .then(r => r.json())
-      .then((data) => setRows(
-        data.map(d => ({
-          id: d.id,
-          title: d.title,
-          region: d.region,
-          province: d.province,
-          city: d.city,
-          barangay: d.barangay ?? "—",
-          status: d.status ?? "Proposed",
-          budget: d.budget,
-          implementingAgency: d.implementingAgency ?? "DPWH",
-          proponent: d.proponent ?? d.implementingAgency ?? "—",
-          submitted: d.submitted ?? "—",
-          flags: d.flags ?? { similarProject:false, poorlySituated:false, contractorIssues:false },
-        }))
-      ));
+    const data = Array.isArray(raw) ? raw : [];
+    const mapped = data.map(d => ({
+      id: d.id,
+      title: d.title,
+      region: d.region,
+      province: d.province,
+      city: d.city,
+      barangay: d.barangay ?? "—",
+      status: d.status ?? "Proposed",
+      budget: d.budget,
+      implementingAgency: d.implementingAgency ?? "DPWH",
+      proponent: d.proponent ?? d.implementingAgency ?? "—",
+      submitted: d.submitted ?? "—",
+      flags: d.flags ?? { 
+        similarProject: false, 
+        poorlySituated: false, 
+        contractorIssues: false 
+      },
+    }));
+
+    setRows(mapped);
   }, []);
 
   const handleSort = (prop) => () => {
