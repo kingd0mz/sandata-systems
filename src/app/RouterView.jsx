@@ -18,7 +18,7 @@ export default function RouterView() {
     <AuthProvider>
       <Routes>
         <Route path="/login" element={<LoginPage />} />
-        <Route path="/" element={<Navigate to="/overview" replace />} />
+        <Route path="/" element={<Navigate to="/assessment" replace />} />
         <Route path="/overview" element={<Protected><OverviewPage /></Protected>} />
         <Route path="/proposals" element={<Protected><ProposalsPage /></Protected>} />
         <Route path="/proposals/:proposalId" element={<Protected><ProposalDetails /></Protected>} />

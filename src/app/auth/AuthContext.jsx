@@ -1,11 +1,11 @@
 import React, { createContext, useContext, useMemo, useState } from "react";
 
 const AuthContext = createContext(null);
-const VALID_USERNAME = "ICI_Philippines";
-const VALID_PASSWORD = "Sandata2025!";
+// const VALID_USERNAME = "ICI_Philippines";
+// const VALID_PASSWORD = "Sandata2025!";
 
-// const VALID_USERNAME = "test";
-// const VALID_PASSWORD = "test";
+const VALID_USERNAME = "test";
+const VALID_PASSWORD = "test";
 
 export function useAuth() {
   return useContext(AuthContext);
