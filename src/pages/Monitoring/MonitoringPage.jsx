@@ -223,7 +223,7 @@ export default function MonitoringPage() {
                     <TableCell>{p.agency}</TableCell>
                     <TableCell>{peso(p.budget)}</TableCell>
                     <TableCell>{p.year || "—"}</TableCell>
-                    <TableCell>{p.status}</TableCell>
+                    <TableCell>{p.status === "Proposed" ? "Not Yet Started" : p.status}</TableCell>
                     <TableCell>
                       <Button
                         variant="outlined"
