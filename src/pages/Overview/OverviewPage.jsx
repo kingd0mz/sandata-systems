@@ -145,22 +145,28 @@ export default function OverviewPage() {
     return arr.slice(0, 8);
   }, [filtered]);
 
-  const onRegionEach = (feature, layer) => {
-    layer.on({
-      click: () => {
-        const name = feature?.properties?.name;
-        if (!name) return;
-        setRegion(name);
-        const map = mapRef.current;
-        if (map) {
-          const bounds = layer.getBounds();
-          map.fitBounds(bounds, { padding: [20, 20] });
-        }
-      },
-    });
-    layer.setStyle({ color: "#424242", weight: 1, fillOpacity: 0.05 });
-    layer.bindTooltip(feature?.properties?.name || "", { sticky: true });
-  };
+  const completedYear = (p) =>
+    p?.yearCompleted ??
+    p?.completedYear ??
+    p?.completionYear ??
+    (statusBucket(p?.status) === "Completed" ? p?.year : null);
+
+  // const onRegionEach = (feature, layer) => {
+  //   layer.on({
+  //     click: () => {
+  //       const name = feature?.properties?.name;
+  //       if (!name) return;
+  //       setRegion(name);
+  //       const map = mapRef.current;
+  //       if (map) {
+  //         const bounds = layer.getBounds();
+  //         map.fitBounds(bounds, { padding: [20, 20] });
+  //       }
+  //     },
+  //   });
+  //   layer.setStyle({ color: "#424242", weight: 1, fillOpacity: 0.05 });
+  //   layer.bindTooltip(feature?.properties?.name || "", { sticky: true });
+  // };
 
   const resetView = () => {
     setRegion("All");
@@ -183,22 +189,70 @@ export default function OverviewPage() {
         <Box sx={{ width: { xs: "100%", lg: "43%" }, display: "flex", flexDirection: "column", gap: 2 }}>
           {/* Controls */}
           <Paper sx={{ p: 2, borderRadius: 3 }}>
-            <Stack direction="row" spacing={2} alignItems="center" justifyContent="space-between" flexWrap="wrap">
+            <Stack
+              direction="row"
+              spacing={2}
+              alignItems="center"
+              justifyContent="space-between"
+              flexWrap="wrap"
+            >
               <Stack direction="row" spacing={2} alignItems="center">
                 <Typography variant="h6" fontWeight={700}>Overview</Typography>
-                {region !== "All" && <Chip label={region} onDelete={resetView} />}
+                {/* {region !== "All" && <Chip label={region} onDelete={resetView} />} */}
               </Stack>
-              <FormControl size="small" sx={{ minWidth: 160 }}>
-                <InputLabel>Year</InputLabel>
-                <Select label="Year" value={year} onChange={(e) => setYear(e.target.value)}>
-                  {years.map((y) => (
-                    <MenuItem key={y} value={y}>{y}</MenuItem>
-                  ))}
-                </Select>
-              </FormControl>
-              <Button variant="outlined" onClick={() => window.print()}>Export / Print</Button>
+
+              {/* FILTERS */}
+              <Stack direction="row" spacing={2} alignItems="center" flexWrap="wrap">
+                {/* Year Filter */}
+                <FormControl size="small" sx={{ minWidth: 140 }}>
+                  <InputLabel>Year</InputLabel>
+                  <Select
+                    label="Year"
+                    value={year}
+                    onChange={(e) => setYear(e.target.value)}
+                  >
+                    {years.map((y) => (
+                      <MenuItem key={y} value={y}>{y}</MenuItem>
+                    ))}
+                  </Select>
+                </FormControl>
+
+                {/* Region Filter (static list) */}
+                <FormControl size="small" sx={{ minWidth: 220 }}>
+                  <InputLabel>Region</InputLabel>
+                  <Select
+                    label="Region"
+                    value={region === "All" ? "" : region}
+                    onChange={(e) => setRegion(e.target.value || "All")}
+                  >
+                    <MenuItem value="All">All Regions</MenuItem>
+                    <MenuItem value="NCR">NCR - National Capital Region</MenuItem>
+                    <MenuItem value="CAR">CAR - Cordillera Administrative Region</MenuItem>
+                    <MenuItem value="Region I">Region I - Ilocos Region</MenuItem>
+                    <MenuItem value="Region II">Region II - Cagayan Valley</MenuItem>
+                    <MenuItem value="Region III">Region III - Central Luzon</MenuItem>
+                    <MenuItem value="Region IV-A">Region IV-A - CALABARZON</MenuItem>
+                    <MenuItem value="MIMAROPA">MIMAROPA - Southwestern Tagalog Region</MenuItem>
+                    <MenuItem value="Region V">Region V - Bicol Region</MenuItem>
+                    <MenuItem value="Region VI">Region VI - Western Visayas</MenuItem>
+                    <MenuItem value="Region VII">Region VII - Central Visayas</MenuItem>
+                    <MenuItem value="Region VIII">Region VIII - Eastern Visayas</MenuItem>
+                    <MenuItem value="Region IX">Region IX - Zamboanga Peninsula</MenuItem>
+                    <MenuItem value="Region X">Region X - Northern Mindanao</MenuItem>
+                    <MenuItem value="Region XI">Region XI - Davao Region</MenuItem>
+                    <MenuItem value="Region XII">Region XII - SOCCSKSARGEN</MenuItem>
+                    <MenuItem value="Region XIII">Region XIII - Caraga</MenuItem>
+                    <MenuItem value="BARMM">BARMM - Bangsamoro Autonomous Region in Muslim Mindanao</MenuItem>
+                  </Select>
+                </FormControl>
+
+                <Button variant="outlined" onClick={() => window.print()}>
+                  Export / Print
+                </Button>
+              </Stack>
             </Stack>
           </Paper>
+
 
           {/* Hover Info Card */}
           {hoveredProject && (
@@ -208,6 +262,10 @@ export default function OverviewPage() {
               </Typography>
               <Typography variant="body2" color="text.secondary">
                 {statusBucket(hoveredProject.status)} • {hoveredProject.region}
+                {(() => {
+                  const yr = completedYear(hoveredProject);
+                  return yr ? ` • Year Completed: ${yr}` : "";
+                })()}
               </Typography>
               <Divider sx={{ my: 1.2 }} />
               <Stack direction="row" spacing={3} flexWrap="wrap">
@@ -307,7 +365,7 @@ export default function OverviewPage() {
               whenCreated={(map) => (mapRef.current = map)}
             >
               <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-              <GeoJSON data={REGION_GEOJSON} onEachFeature={onRegionEach} />
+              {/* <GeoJSON data={REGION_GEOJSON} onEachFeature={onRegionEach} /> */}
 
               {/* Markers with hover handlers */}
               {filtered.map((p) => {
