@@ -16,7 +16,7 @@ import { useAuth } from "../app/auth/AuthContext.jsx";
 import { useLocation, useNavigate } from "react-router-dom";
 import logo from "../data/sandata-logo.png";
 import bagong from "../data/bagong-pilipinas.png";
-import banner from "../data/banner.jpg";
+import banner from "../data/banner.png";
 
 const BANNER_MOBILE_HEIGHT = 240; // banner height on mobile (px)
 
@@ -24,7 +24,7 @@ export default function LoginPage() {
   const { user, login } = useAuth();
   const navigate = useNavigate();
   const location = useLocation();
-  const from = location.state?.from?.pathname || "/overview";
+  const from = location.state?.from?.pathname || "/assessment";
 
   useEffect(() => { if (user) navigate(from, { replace: true }); }, [user]);
 
