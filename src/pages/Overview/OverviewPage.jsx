@@ -145,6 +145,12 @@ export default function OverviewPage() {
     return arr.slice(0, 8);
   }, [filtered]);
 
+  const completedYear = (p) =>
+    p?.yearCompleted ??
+    p?.completedYear ??
+    p?.completionYear ??
+    (statusBucket(p?.status) === "Completed" ? p?.year : null);
+
   // const onRegionEach = (feature, layer) => {
   //   layer.on({
   //     click: () => {
@@ -256,6 +262,10 @@ export default function OverviewPage() {
               </Typography>
               <Typography variant="body2" color="text.secondary">
                 {statusBucket(hoveredProject.status)} • {hoveredProject.region}
+                {(() => {
+                  const yr = completedYear(hoveredProject);
+                  return yr ? ` • Year Completed: ${yr}` : "";
+                })()}
               </Typography>
               <Divider sx={{ my: 1.2 }} />
               <Stack direction="row" spacing={3} flexWrap="wrap">
